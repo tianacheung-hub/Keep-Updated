@@ -24,7 +24,8 @@
 <p>
 - As curriculum is something to discuss changing, it is a long term process, so the English as well as History department are looking for ways to incorporate educating students whether that be through extra curriculum or on a student's own accord.</P>
 <p>
-- If you would like to be apart of an open discussion based on History that isn't taught in the curriculum, <a href="mailto:y14tiche@latymer.co.uk">press this email<a/> and let us know and you will be added to a google classrom</p>
+- If you would like to be apart of an open discussion based on History that isn't taught in the curriculum, <a href="mailto:y14tiche@latymer.co.uk">press this email<a/> and let us know and you will be added to a google classroom
+ </p>
 <p>
 -Please keep updated with this website as well as Zahra's in the link above, I will keep updating so that your emails won't be spammed and can be a better way to take in information! 
 </p>
