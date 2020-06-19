@@ -3,6 +3,7 @@
 <title> Updates and English/History Resources</title>
 </head>
 <body>
+ 
  <div class="border border-black-fade bg-blue-light p-2 mb-2">
   <h1>Student Updates about BLM and English/History Resources!</h1>
 </div>
@@ -61,14 +62,27 @@
 <p class="p4"><span class="s1">Interested in Modern Poetry?</span></p>
 <p class="p4"><span class="s1">Click here for recommendations</span></p>
 <p class="p4"><span class="s1">of great Black Poets and Poetry</span></p>
-<div class="border border-dashed p-2">
-  <p><a href="https://www.youtube.com/watch?v=VfZjScrrrME">Roger Robinson</a></p>
-  <p><a href="https://www.youtube.com/watch?v=ZLjYflvXYIM">Langston Hughes</a></p>
-  <p><a href="https://www.youtube.com/watch?v=JqOqo50LSZ0&list=PLY7YrMlggULHyUiruF4tQ_NXRsoY7-ECe">Maya Angelou</a></p>
-  <p><a href="https://www.youtube.com/watch?v=WWJjd87Ldrw">Jamilia Woods</a></p>
-  <p><a href="https://www.youtube.com/watch?v=ivhacww-EMc">Caleb Femi</a></p>
-  <P><a href="https://www.youtube.com/watch?v=gdjQ0qN6Oxo">Malika Booker</a></p>
-  <p><a href="https://www.youtube.com/watch?v=Tv-6Gy0jKjw">Linton Kwesi Johnson</a></p>
+<div class="Box">
+  <ul>
+    <li class="Box-row">
+     <a href="https://www.youtube.com/watch?v=VfZjScrrrME">Roger Robinson</a>
+    </li>
+    <li class="Box-row">
+     <a href="https://www.youtube.com/watch?v=ZLjYflvXYIM">Langston Hughes</a>
+    </li>
+    <li class="Box-row">
+     <a href="https://www.youtube.com/watch?v=JqOqo50LSZ0&list=PLY7YrMlggULHyUiruF4tQ_NXRsoY7-ECe">Maya Angelou</a>
+    </li>
+    <li class="Box-row">
+     <a href="https://www.youtube.com/watch?v=WWJjd87Ldrw">Jamilia Woods</a>
+    </li>
+    <li class="Box-row">
+     <a href="https://www.youtube.com/watch?v=ivhacww-EMc">Caleb Femi</a>
+    <li class="Box-row">
+      <a href="https://www.youtube.com/watch?v=gdjQ0qN6Oxo">Malika Booker</a>
+    <li class="Box-row">
+     <a href="https://www.youtube.com/watch?v=Tv-6Gy0jKjw">Linton Kwesi Johnson</a>
+  </ul>
 </div>
 
 <p class="p2"><span class="s1"><br>
