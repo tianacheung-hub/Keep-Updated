@@ -81,7 +81,6 @@
    </li>
      <li class="Box-row">
      <a href="https://www.waterstones.com/book/poor/caleb-femi/2928377038588?awc=3787_1592601048_4ebf6c66e64684228cc8f26804b0ac9f&utm_source=101248&utm_medium=affiliate&utm_campaign=adgoal">Caleb Femi 'Poor' Novel 
-    </li>
     <li class="Box-row">
      <a href="https://www.youtube.com/watch?v=JqOqo50LSZ0&list=PLY7YrMlggULHyUiruF4tQ_NXRsoY7-ECe">Maya Angelou</a>
     </li>
