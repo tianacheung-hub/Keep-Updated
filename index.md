@@ -47,6 +47,7 @@
 <h1 style="background-color:lightpink"> Think About History Comparisons</h1>
 <p><embed src="Mary Seacole and Florence Nightingale.pdf" width="400px" height="600px"  />
 </p>
+<hr/>
 <p>
 <h1 style="background-color:lightpink">Competitions or Other Activities</h1></p>
 <p>Check out:</p>
