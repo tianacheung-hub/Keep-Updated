@@ -13,7 +13,7 @@
 <hr/>
 <h1 style="background-color:yellow"> !UPDATES! 
 <p>
-- On Friday 26th June, there will be a Q&A talk with Dr Quinn about the History curriculum on Teams, if you would like to be apart of this discussion, please email <a href="mailto:y13EmAdu@latymer.co.uk">Emmanuella Adu</a></p> </h1 style>
+- On Friday 26th June, there will be a Q&A talk with Dr Quinn about the History curriculum on Teams, if you would like to be apart of this discussion, please email <a href="mailto:y13EmAdu@latymer.co.uk">Emmanuella Adu</a></p> </h1>
 
 <hr/>
 <h1 style="background-color:lightpink"> Newsletter</h1>
