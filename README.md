@@ -1,2 +1,2 @@
-# keepupdated.co.uk
-Keep updated in Latymer during COVID-19
+# keepupdated
+in Latymer during COVID-19
