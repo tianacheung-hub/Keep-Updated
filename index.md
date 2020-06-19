@@ -42,7 +42,7 @@
 <h1 style="background-color:lightpink">Literary Magazine Updates!</h1>
 
 <p class="p4"><span class="s1">Maisie and Rojbin in Year 12 have created a literary magazine: Euphrasia. They'll be publishing new issues monthly, full of books we've read as well as interesting articles and podcasts.</span></p>
-<p class="p4"><span class="s1">This month's issue (attached) focuses on Black Lives Matter: we've reviewed both fiction and non-fiction, written by black authors.</span></p>
+<p class="p4"><span class="s1">This month's issue (below) focuses on Black Lives Matter: we've reviewed both fiction and non-fiction, written by black authors.</span></p>
 <p class="p4"><span class="s1">July's theme will be 'London'. Details on contributing are at the end of the issue.</span></p>
 <embed src="Euphrasia.pdf" width="500px" height="700px" />
 <hr/>
