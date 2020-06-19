@@ -52,6 +52,15 @@ Hi, this is a website where Latymer students can include information in a more e
 <p class="p4"><span class="s1">Interested in Modern Poetry?</span></p>
 <p class="p4"><span class="s1">Click here for recommendations</span></p>
 <p class="p4"><span class="s1">of great Black Poets and Poetry</span></p>
+<p><a href="https://www.youtube.com/watch?v=VfZjScrrrME">Roger Robinson</a></p>
+<p><a href="https://www.youtube.com/watch?v=ZLjYflvXYIM">Langston Hughes</a></p>
+<p><a href="https://www.youtube.com/watch?v=JqOqo50LSZ0&list=PLY7YrMlggULHyUiruF4tQ_NXRsoY7-ECe">Maya Angelou</a></p>
+<p><a href="https://www.youtube.com/watch?v=WWJjd87Ldrw">Jamilia Woods</a></p>
+<p><a href="https://www.youtube.com/watch?v=ivhacww-EMc">Caleb Femi</a></p>
+<P><a href="https://www.youtube.com/watch?v=gdjQ0qN6Oxo">Malika Booker</a></p>
+<p><a href="https://www.youtube.com/watch?v=Tv-6Gy0jKjw">Linton Kwesi Johnson</a></p>
+
+
 <p class="p2"><span class="s1"><br>
 </span></p>
 
