@@ -8,7 +8,7 @@
 </div>
 <hr/>
 <img src="fist.png"/> <img src="logo.png"/><img src="BLM-logo.png"/>
-<p>Hi, this is a website where Latymer students can include information in a more efficient way. This is from an educational point of view where there are resources and information available. As well as being a forum for people to be informed as well as understand history as the curriculum does not cover BME/BIPOC history. We aim to keep the momentum going and hopefully whilst being in lockdown, you can still educate yourself further and become a better ally.</p>
+<p>Hi, this is a website dedicated for Latymer students to provide information in a more efficient and clearer way. This is from an educational point of view where there are resources, articles and information available. As well as being a forum for people to be informed as well as understand history as the curriculum does not cover BME/BIPOC history. We aim to keep the momentum going and hopefully whilst being in lockdown, you can still educate yourself further and become a better ally.</p>
 <p>If you want to write a blog or check out petitions and resources then go check out Zahra's BAME LDN page <a href="https://zahra-rahman.github.io/BAME-LDN.github.io/page2-about/page2-about.html">here!</a></p>
 <hr/>
 <h1 style="background-color:yellow"> !UPDATES! 
