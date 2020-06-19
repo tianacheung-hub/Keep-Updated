@@ -62,7 +62,7 @@
 <p>Catch up on Modern Black Poets podcasts <a href="https://www.bbc.co.uk/programmes/b006qp7q">BBC 4</a>
 </p>
 <hr/>
-<img src="Poetry sign.jpeg"/>   <img src="unnamed.jpeg"/>
+<img src="Poetry sign.jpeg"/>   <img src="unnamed.jpg"/>
 <p class="p4"><span class="s1">Interested in Modern Poetry?</span></p>
 <p class="p4"><span class="s1">Click here for recommendations of great Poets tackling racism and race within Poetry</span></p>
 <div class="Box">
