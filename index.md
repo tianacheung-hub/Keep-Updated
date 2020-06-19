@@ -43,7 +43,7 @@
 <embed src="MEDICINE, racism in healthcare.pdf" width="500px" height="700px" />
 <hr/>
 <h1 style="background-color:lightpink"> Think About History Comparisons</h1>
-<p><a href="Mary Seocle and Florence Nightingale.pdf">Mary Seacole Vs. FLorence Nightingale</a>
+<p><embed src="Mary Seocle and Florence Nightingale.pdf" width="400px" height="600px"/></p>
 <p>
 <h1 style="background-color:lightpink">Competitions or Other Activities</h1></p>
 <p>Check out:</p>
