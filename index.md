@@ -3,7 +3,9 @@
 <title> Updates and English/History Resources</title>
 </head>
 <body>
+ <div class="border border-black-fade bg-blue-light p-2 mb-2">
   <h1>Student Updates about BLM and English/History Resources!</h1>
+</div>
 <hr/>
 <img src="fist.png"/> <img src="logo.png"/><img src="BLM-logo.png"/>
 <p>Hi, this is a website where Latymer students can include information in a more efficient way. This is from an educational point of view where there are resources and information available. As well as being a forum for people to be informed as well as understand history as the curriculum does not cover BME/BIPOC history. We aim to keep the momentum going and hopefully whilst being in lockdown, you can still educate yourself further and become a better ally.</p>
