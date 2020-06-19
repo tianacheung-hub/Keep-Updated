@@ -3,7 +3,7 @@
 <title> Updates and English/History Resources</title>
 </head>
 <body bgcolor="lightblue">
-<h1>Student Latymer Updates!</h1>
+<h1>Student Updates about BLM and English/History Resources!</h1>
 <hr/>
 <img src="fist.png"/> <img src="logo.png"/><img src="BLM-logo.png"/> <img src="007-copy.jpg"/>
 <p>
