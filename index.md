@@ -13,8 +13,8 @@
 <p>If you want to write a blog or check out petitions and email templates, then go check out Zahra's BAME LDN page <a href="https://zahra-rahman.github.io/BAME-LDN.github.io/page2-about/page2-about.html">here!</a></p>
 <hr/>
 <p>
- <h1 style="background-color:yellow"> !UPDATES!
 <img src="nora pic.jpeg"/> 
+<h1 style="background-color:yellow"> !UPDATES!
 -On Friday 26th June, there will be a Q&A talk with Dr Quinn about the History curriculum on Teams, if  you would like to
 be apart of this discussion, please email <a href="mailto:y13EmAdu@latymer.co.uk">Emmanuella Adu</a></p></h1>
 
