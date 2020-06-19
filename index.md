@@ -54,4 +54,4 @@ Hi, this is a website where Latymer students can include information in a more e
 <p class="p4"><span class="s1">of great Black Poets and Poetry</span></p>
 <p class="p2"><span class="s1"><br>
 </span></p>
-</body></html>
+
