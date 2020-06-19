@@ -3,6 +3,8 @@
 <title> Updates and English/History Resources</title>
 </head>
 <body>
+set background=light blue
+
  <div class="border border-black-fade bg-blue-light p-2 mb-2">
   <h1>Student Updates about BLM and English/History Resources!</h1>
 </div>
