@@ -59,8 +59,7 @@
 <hr/>
 <img src="Poetry sign.jpeg"/>
 <p class="p4"><span class="s1">Interested in Modern Poetry?</span></p>
-<p class="p4"><span class="s1">Click here for recommendations</span></p>
-<p class="p4"><span class="s1">of great Black Poets and Poetry</span></p>
+<p class="p4"><span class="s1">Click here for recommendations of great Black Poets and Poetry</span></p>
 <div class="Box">
   <ul>
     <li class="Box-row">
