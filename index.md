@@ -12,7 +12,7 @@
 <p> Also, this is a forum for all students and teachers, so, if you would like to add something to this website then please send the document or resource <a href="mailto:y14tiche@latymer.co.uk">here</a></p>
 <p>If you want to write a blog or check out petitions and email templates, then go check out Zahra's BAME LDN page <a href="https://zahra-rahman.github.io/BAME-LDN.github.io/page2-about/page2-about.html">here!</a></p>
 <hr/>
-<h1 style="background-color:Y"> Updates! </h1>
+<h1 style="background-color:Yellow"> Updates! </h1>
 <img src="noras pice.jpg"/>
 <h1 style="background-color:yellow"> -On Friday 26th June, there will be a Q&A talk with Dr Quinn about the History curriculum on Teams, if  you would like to be apart of this discussion, please email <a href="mailto:y13EmAdu@latymer.co.uk">Emmanuella Adu</a></h1>
 <hr/>
