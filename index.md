@@ -11,9 +11,9 @@
 <p>Hi, this is a website dedicated for Latymer students to be provide with information in a more efficient and clearer way. This is from an educational point of view where there are resources, articles and information available. As well as being a forum for people to be informed as well as understand history as the curriculum does not cover BME/BIPOC history. We aim to keep the momentum going and hopefully whilst being in lockdown, you can still educate yourself further and become a better ally.</p>
 <p>If you want to write a blog or check out petitions and email templates, then go check out Zahra's BAME LDN page <a href="https://zahra-rahman.github.io/BAME-LDN.github.io/page2-about/page2-about.html">here!</a></p>
 <hr/>
- <h1 style="background-color:yellow"> !UPDATES! </h1>
+ <h1 style="background-color:yellow"> !UPDATES! 
 <p>
-<h2>- On Friday 26th June, there will be a Q&A talk with Dr Quinn about the History curriculum on Teams, if you would like to be apart of this discussion, please email <a href="mailto:y13EmAdu@latymer.co.uk">Emmanuella Adu</a></p> </h2>
+-On Friday 26th June, there will be a Q&A talk with Dr Quinn about the History curriculum on Teams, if you would like to be apart of this discussion, please email <a href="mailto:y13EmAdu@latymer.co.uk">Emmanuella Adu</a></p> </h1>
 
 <hr/>
 <h1 style="background-color:lightpink"> Newsletter</h1>
