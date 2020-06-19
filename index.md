@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> Student Updates at Latymer</title>
+<title> Updates and English/History Resources</title>
 </head>
 <body bgcolor="lightblue">
 <h1>Student Latymer Updates!</h1>
