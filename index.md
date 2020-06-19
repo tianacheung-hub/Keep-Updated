@@ -2,8 +2,7 @@
 <head>
 <title> Updates and English/History Resources</title>
 </head>
-<body>
-
+<body style="background-color:light blue">
  <div class="border border-black-fade bg-blue-light p-2 mb-2">
   <h1>Student Updates about BLM and English/History Resources!</h1>
 </div>
@@ -84,6 +83,6 @@
      <a href="https://www.youtube.com/watch?v=Tv-6Gy0jKjw">Linton Kwesi Johnson</a>
  
 
-<p class="p2"><span class="s1"><br>
-</span></p>
+</body>
+</html>
 
