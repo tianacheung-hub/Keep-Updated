@@ -50,7 +50,7 @@
 <embed src="MEDICINE, racism in healthcare.pdf" width="500px" height="700px" />
 <hr/>
 <h1 style="background-color:lightpink"> "Think About History"</h1>
-<p><embed src="Mary Seacole and Florence Nightingale.pdf" width="400px" height="600px"  />  <embed src="Windrush gen.pdf" width="400px" height="600px" />
+<p><embed src="Mary Seacole and Florence Nightingale.pdf" width="400px" height="600px"  />     <embed src="Windrush gen.pdf" width="400px" height="600px" />
 </p>
 <hr/>
 <p>
