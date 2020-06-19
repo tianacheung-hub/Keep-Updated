@@ -82,8 +82,7 @@
       <a href="https://www.youtube.com/watch?v=gdjQ0qN6Oxo">Malika Booker</a>
     <li class="Box-row">
      <a href="https://www.youtube.com/watch?v=Tv-6Gy0jKjw">Linton Kwesi Johnson</a>
-  </ul>
-</div>
+ 
 
 <p class="p2"><span class="s1"><br>
 </span></p>
