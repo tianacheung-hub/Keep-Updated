@@ -41,6 +41,7 @@ Hi, this is a website where Latymer students can include information in a more e
 <hr/>
 <h1 style="background-color:lightpink"> Articles written by Students to Read</H1>
 <embed src="MEDICINE, racism in healthcare.pdf" width="500px" height="700px" />
+<hr/>
 <h1 style="background-color:lightpink">Competitions or Other Activities</h1>
 <p>Check out:</p>
 <p><a href="https://www.100greatblackbritons.co.uk/competition.html?fbclid=IwAR1z26m5zKbCBM30Y9BEp4Ih-YgBq17488IuQMe-bNGL0uUUG1ictNjHsdQ#children16">100 Great Britons!</a></p>
