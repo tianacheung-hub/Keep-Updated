@@ -2,7 +2,10 @@
 <head>
 <title> Updates and English/History Resources</title>
 </head>
-<body bgcolor="lightblue">
+<body>
+<div class="border border-blue mb-2">
+  .border-blue
+</div>
 <h1>Student Updates about BLM and English/History Resources!</h1>
 <hr/>
 <img src="fist.png"/> <img src="logo.png"/><img src="BLM-logo.png"/>
