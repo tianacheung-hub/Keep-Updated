@@ -27,9 +27,9 @@
 <p>
 - If you would like to be apart of an open discussion based on History that isn't taught in the curriculum, <a href="mailto:y14tiche@latymer.co.uk">press this email<a/> and let us know and you will be added to a google classroom.</p>
 <p>
--If you have any suggestions or discussion points (History/English POV) that you would like posted on this website, press <a href="https://forms.gle/Xx7cKgC1nFo96DJcA">here</a> to fil our the form.</p>
+- If you have any suggestions or discussion points (History/English POV) that you would like posted on this website, press <a href="https://forms.gle/Xx7cKgC1nFo96DJcA">here</a> to fill our the form.</p>
 <p>
--Please keep updated with this website as well as Zahra's in the link above, I will keep updating so that your emails won't be spammed and can be a better way to take in information! 
+- Please keep updated with this website as well as Zahra's in the link above, I will keep updating so that your emails won't be spammed and can be a better way to take in information! 
 </p>
 <hr/>
 <h1 style="background-color:lightpink"> Resources to educate yourself and family!</h1>
