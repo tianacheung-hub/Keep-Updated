@@ -3,9 +3,7 @@
 <title> Updates and English/History Resources</title>
 </head>
 <body>
-<div class="border border-blue mb-2">
   <h1>Student Updates about BLM and English/History Resources!</h1>
-</div>
 <hr/>
 <img src="fist.png"/> <img src="logo.png"/><img src="BLM-logo.png"/>
 <p>Hi, this is a website where Latymer students can include information in a more efficient way. This is from an educational point of view where there are resources and information available. As well as being a forum for people to be informed as well as understand history as the curriculum does not cover BME/BIPOC history. We aim to keep the momentum going and hopefully whilst being in lockdown, you can still educate yourself further and become a better ally.</p>
@@ -57,20 +55,6 @@
 </p>
 <hr/>
 <img src="Poetry sign.jpeg"/>
-<div class="col-5">
-  <div class="Box box-shadow">
-    <div class="Box-row">
-      <h3 class="mb-0">Organization</h3>
-    </div>
-    <div class="Box-row">
-      <p class="mb-0 alt-text-small text-gray">
-        Taxidermy live-edge mixtape, keytar tumeric locavore meh selvage deep v letterpress vexillologist lo-fi tousled church-key thundercats. Brooklyn bicycle rights tousled, marfa actually.
-      </p>
-    </div>
-    <div class="Box-row">
-      <button type="button" name="Create an organization" class="btn btn-primary btn-block">Create an organization</button>
-    </div>
-  </div>
 <p class="p4"><span class="s1">Interested in Modern Poetry?</span></p>
 <p class="p4"><span class="s1">Click here for recommendations</span></p>
 <p class="p4"><span class="s1">of great Black Poets and Poetry</span></p>
