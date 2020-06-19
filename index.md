@@ -4,7 +4,7 @@
 </head>
 <body style="background-color:light blue">
  <div class="border border-black-fade bg-blue-light p-2 mb-2">
-  <h1>Student Updates about BLM and English/History Resources!</h1>
+  <h1>Student Updates about BLM and Subject Resources!</h1>
 </div>
 <hr/>
 <img src="fist.png"/> <img src="logo.png"/><img src="BLM-logo.png"/>
