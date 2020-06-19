@@ -62,16 +62,16 @@
 <p>Catch up on Modern Black Poets podcasts <a href="https://www.bbc.co.uk/programmes/b006qp7q">BBC 4</a>
 </p>
 <hr/>
-<img src="Poetry sign.jpeg"/>
+<img src="Poetry sign.jpeg"/>   <img src="unnamed.jpg"/>
 <p class="p4"><span class="s1">Interested in Modern Poetry?</span></p>
-<p class="p4"><span class="s1">Click here for recommendations of great Black Poets and Poetry</span></p>
+<p class="p4"><span class="s1">Click here for recommendations of great Poets tackling racism and race within Poetry</span></p>
 <div class="Box">
   <ul>
-    <li class="Box-row">
-     <a href="https://www.youtube.com/watch?v=VfZjScrrrME">Roger Robinson</a>
+    <li class="Box-row">          <li class="Box-row">
+     <a href="https://www.youtube.com/watch?v=VfZjScrrrME">Roger Robinson</a>          <a href="https://m.youtube.com/watch?v=-Q9i8FjR7QQ">Anthony Anaxagorou 1</a> <ahref="https://m.youtube.com/watch?v=qXohqBX9xck">Part 2</a>
     </li>
-    <li class="Box-row">
-     <a href="https://www.youtube.com/watch?v=ZLjYflvXYIM">Langston Hughes</a>
+    <li class="Box-row">          <li class="Box-row">
+     <a href="https://www.youtube.com/watch?v=ZLjYflvXYIM">Langston Hughes</a>          <a href=https://www.waterstones.com/book/poor/caleb-femi/2928377038588?awc=3787_1592601048_4ebf6c66e64684228cc8f26804b0ac9f&utm_source=101248&utm_medium=affiliate&utm_campaign=adgoal">Caleb Femi 'Poor' Novel 
     </li>
     <li class="Box-row">
      <a href="https://www.youtube.com/watch?v=JqOqo50LSZ0&list=PLY7YrMlggULHyUiruF4tQ_NXRsoY7-ECe">Maya Angelou</a>
