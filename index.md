@@ -26,7 +26,8 @@ Hi, this is a website where Latymer students can include information in a more e
 </p>
 <hr/>
 <h1 style="background-color:lightpink"> Resources to educate yourself and family!</h1>
-<a href="https://drive.google.com/file/d/1F02M2bGVzGodkDapwUdMRczEhoA5cyh-/view">Resource List!</a>
+<p><a href="https://drive.google.com/file/d/1F02M2bGVzGodkDapwUdMRczEhoA5cyh-/view">Resource List!</a></p>
+<p>
 <a href="https://literacytrust.org.uk/resources/black-lives-matter-book-lists-ages-0-16/?mc_cid=8ea2999360&amp;mc_eid=917a23e4d4">Reading Books ages 0-16+</a></p>
 <p>If you have parents who might not understand what's going on with BLM, or cannot understand English as well as you can, here is a link for pre-written letters written in multiple languages that might help them understand more
 <a href="https://lettersforblacklives.com/2020/home">Letters For Black Lives</a></p>
@@ -53,5 +54,4 @@ Hi, this is a website where Latymer students can include information in a more e
 <p class="p4"><span class="s1">of great Black Poets and Poetry</span></p>
 <p class="p2"><span class="s1"><br>
 </span></p>
-</body>
-</html>
+</body></html>
