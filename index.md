@@ -8,7 +8,7 @@
 </div>
 <hr/>
 <img src="fist.png"/> <img src="logo.png"/><img src="BLM-logo.png"/>
-<p>Hi, this is a website dedicated for Latymer students to be provide with information in a more efficient and clearer way. This is from an educational point of view where there are resources, articles and information available. As well as being a forum for people to be informed as well as understand history as the curriculum does not cover BME/BIPOC history. We aim to keep the momentum going and hopefully whilst being in lockdown, you can still educate yourself further and become a better ally.</p>
+<p>Hi, this is a website dedicated for Latymer students to be provided with information in a more efficient and clearer way. This is from an educational point of view where there are resources, articles and information available. As well as being a forum for people to be informed as well as understand history as the curriculum does not cover BME/BIPOC history. We aim to keep the momentum going and hopefully whilst being in lockdown, you can still educate yourself further and become a better ally.</p>
 <p> Also, this is a forum for all students and teachers, so, if you would like to add something to this website then please send the document or resource <a href="mailto:y14tiche@latymer.co.uk">here</a></p>
 <p>If you want to write a blog or check out petitions and email templates, then go check out Zahra's BAME LDN page <a href="https://zahra-rahman.github.io/BAME-LDN.github.io/page2-about/page2-about.html">here!</a></p>
 <hr/>
@@ -24,7 +24,7 @@
 <p>
 - As curriculum is something to discuss changing, it is a long term process, so the English as well as History department are looking for ways to incorporate educating students whether that be through extra curriculum or on a student's own accord.</P>
 <p>
-- If you would like to be apart of an open discussion based on History that isn't taught in the curriculum, <a href="mailto:y14tiche@latymer.co.uk">press this email<a/> and let us know and you will be added to a google classroom.</p>
+- If you would like to be apart of an open discussion based on History that isn't taught in the curriculum, <a href="mailto:y14tiche@latymer.co.uk">press this email<a/> and let us know and you will be added to a google classroom.
 <p>
 - If you have any suggestions or discussion points (History/English POV) that you would like posted on this website, press <a href="https://forms.gle/Xx7cKgC1nFo96DJcA">here</a> to fill our the form.</p>
 <p>
