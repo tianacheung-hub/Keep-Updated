@@ -14,7 +14,7 @@
 <hr/>
 <h1 style="background-color:Yellow"> Updates! </h1>
 <img src="noraspicfinal.jpg"/>
-<h1 style="background-color:yellow"> -On Friday 26th June, there will be a Q&A talk with Dr Quinn about the History curriculum on Teams, if  you would like to be apart of this discussion, please email <a href="mailto:y13EmAdu@latymer.co.uk">Emmanuella Adu</a></h1>
+<h1 style="background-color:yellow"> -On Friday 26th June, there will be a Q&A talk with Dr Quinn about the History curriculum on Teams, if  you would like to be apart of this discussion, (teachers and students!) please email <a href="mailto:y13EmAdu@latymer.co.uk">Emmanuella Adu</a></h1>
 <hr/>
 <h1 style="background-color:lightpink"> Newsletter</h1>
 <embed src="Solidarity with BLM.pdf" width="500px" height="700px" />
