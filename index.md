@@ -35,9 +35,8 @@
 <p><a href="https://drive.google.com/drive/folders/1dU3gRzrGuDZfdQ9X-e-T4w0WPAQAudki?usp=sharing">Resource List of Books/Films</a></p>
 <p>
 <a href="https://literacytrust.org.uk/resources/black-lives-matter-book-lists-ages-0-16/?mc_cid=8ea2999360&amp;mc_eid=917a23e4d4">Reading Books ages 0-16+</a></p>
-<p>If you have parents who might not understand what's going on with BLM, or cannot understand English as well as you can, here is a link for pre-written letters written in multiple languages that might help them understand more
-<a href="https://lettersforblacklives.com/2020/home">Letters For Black Lives</a></p>
-<p> A lot of us, students and teachers, might not know our rights. <a href="https://www.gov.uk/police-powers-to-stop-and-search-your-rights>Learn your rights</a></p>
+<p>If you have parents who might not understand what's going on with BLM, or cannot understand English as well as you can, here is a link for pre-written letters written in multiple languages that might help them understand more<a href="https://lettersforblacklives.com/2020/home">Letters For Black Lives</a></p>
+<p> A lot of us, students and teachers, might not know our rights. Check this website, <a href="https://www.gov.uk/police-powers-to-stop-and-search-your-rights">learn your rights</a></p>
 <p>Feeling overwhelmed? Make sure to take care of yourself physically and mentally. Young Minds has a great 24/7 Crisis Messenger service where anyone can text a trained volunteer. Check their website for networks that allow you to text them for free <a href="https://youngminds.org.uk/find-help/get-urgent-help/youngminds-crisis-messenger/">here.</a> Text 'YM' to <a href="85258">85258.</p>
 
 <hr/>
