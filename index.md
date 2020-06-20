@@ -13,7 +13,6 @@
    INFO
    <div class="dropdown-caret"></div>
   </summary>
-  
   <ul class="dropdown-menu dropdown-menu-e">
   <li>
    <a href="https://www.gov.uk/police-powers-to-stop-and-search-your-rights">Know Your Rights</a>
