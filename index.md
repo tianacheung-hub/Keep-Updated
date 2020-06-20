@@ -12,7 +12,6 @@
     <li><a class="dropdown-item" href="#url">History BLM</a></li>
   </ul>
 </details>
-#f1f8ff, $bg-blue-light
 <title> Updates and English/History Resources</title>
 </head>
 <body style="background-color:light blue">
