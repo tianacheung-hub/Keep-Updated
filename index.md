@@ -61,10 +61,10 @@
 <p>Catch up on Modern Black Poets podcasts <a href="https://www.bbc.co.uk/programmes/b006qp7q">BBC 4</a>
 </p>
 <hr/> 
-<img src="Poetry sign.jpeg"/> 
-<p class="p4">Interested in Modern Poetry?</p>
-<p class="p4">Click below for recommendations</p>
-<p> of great Poets tackling racism and race within Poetry</span></p>
+<img src="Poetry sign.jpeg"/>           <p> Keep up with socials!</p>
+<p class="p4">Interested in Modern Poetry?</p>          <p>Follow <a href="https://www.instagram.com/latymer_acs/">@latymer_acs</a>
+<p class="p4">Click below for recommendations</p>          <p>This month's theme is Mowtown</p>
+<p> of great Poets tackling racism and race within Poetry</span></p>          <img src=""/>
 <div class="Box">
   <ul>
     <li class="Box-row">
