@@ -97,8 +97,8 @@
      <a href="https://www.youtube.com/watch?v=Tv-6Gy0jKjw">Linton Kwesi Johnson</a>
    </li>
     <li class="Box-row">
-     <a href="https://www.youtube.com/watch?v=aBnX_iQbXvg">Mary Jean Chan
-      
+     <a href="https://www.youtube.com/watch?v=aBnX_iQbXvg">Mary Jean Chan</a>
+<hr/>
 <h1 style="background-color:lightpink">Keep Up Wtih Socials</h1>
 <p>Follow <a href="https://www.instagram.com/latymer_acs/">@latymer_acs</a>
 <p>This month's theme is Mowtown</p>
