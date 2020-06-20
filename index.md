@@ -7,7 +7,7 @@
   </summary>
 
   <ul class="dropdown-menu dropdown-menu-se">
-    <li><a class="dropdown-item" href="#url">Home</a></li>
+    <li><a class="dropdown-item" href="english page.html">Home</a></li>
     <li><a class="dropdown-item" href="#url">English BLM</a></li>
     <li><a class="dropdown-item" href="#url">History BLM</a></li>
   </ul>
