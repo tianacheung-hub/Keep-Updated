@@ -32,7 +32,7 @@
 </p>
 <hr/>
 <h1 style="background-color:lightpink"> Resources to educate yourself and family!</h1>
-<p><a href="https://drive.google.com/file/d/1F02M2bGVzGodkDapwUdMRczEhoA5cyh-/view">Resource List!</a></p>
+<p><a href="https://drive.google.com/drive/folders/1dU3gRzrGuDZfdQ9X-e-T4w0WPAQAudki?usp=sharing">Resource List of Books/Films</a></p>
 <p>
 <a href="https://literacytrust.org.uk/resources/black-lives-matter-book-lists-ages-0-16/?mc_cid=8ea2999360&amp;mc_eid=917a23e4d4">Reading Books ages 0-16+</a></p>
 <p>If you have parents who might not understand what's going on with BLM, or cannot understand English as well as you can, here is a link for pre-written letters written in multiple languages that might help them understand more
