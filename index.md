@@ -10,7 +10,7 @@
 <div style="margin-bottom: 100px">
 <details class="dropdown details-reset details-overlay d-inline-block">
     <summary class="btn" aria-haspopup="true">
-      .dropdown-se
+      INFO
       <div class="dropdown-caret"></div>
     </summary>
 <ul class="dropdown-menu dropdown-menu-se">
