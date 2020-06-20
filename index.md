@@ -103,6 +103,8 @@
      
 <hr/>
 <h1 style="background-color:lightpink">Keep Up Wtih Socials</h1>
-<p>Follow <a href="https://www.instagram.com/latymer_acs/">@latymer_acs</a>
-<p>This month's theme is Mowtown</p>
+<p>- Follow <a href="https://www.instagram.com/latymer_acs/">@latymer_acs</a></p>
+<p>This month's theme is Mowtown</p>   
 <img src="acs.png"/>
+<p><a href="https://www.youtube.com/watch?v=YrHIQIO_bdQ">- Systemic Racism Explaind</a> </p> 
+<p>^ Need help understanding/explaining Systemic Racism, check out this clip</p>
