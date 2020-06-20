@@ -31,7 +31,6 @@
 <h1 style="background-color:yellow"> -On Friday 26th June, at 5pm, there will be a Q&A talk with Dr Quinn about the History curriculum on Teams, if  you would like to be apart of this discussion, (teachers and students!) please email <a href="mailto:y13EmAdu@latymer.co.uk">Emmanuella Adu</a></h1>
 <hr/>
 <h1 style="background-color:lightpink"> Newsletter</h1>
-<div class="bg-pink"><div class="m-0 p-1 bg-gray">.m-0</div></div>
 <embed src="Solidarity with BLM.pdf" width="500px" height="700px" />
 <hr/>
 <p> <h1 style="background-color:lightpink">Within School Updates: How to be engaged</h1>
