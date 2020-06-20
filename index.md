@@ -13,7 +13,6 @@
       INFO
       <div class="dropdown-caret"></div>
     </summary>
-
     <ul class="dropdown-menu dropdown-menu-se">
       <li><a href="https://www.gov.uk/police-powers-to-stop-and-search-your-rights">Know Your Rights</a></li>
       <li><a href="https://youngminds.org.uk/find-help/get-urgent-help/youngminds-crisis-messenger/">Young Minds Messenger</a></li>
