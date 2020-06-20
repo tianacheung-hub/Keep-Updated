@@ -1,5 +1,17 @@
 <html>
 <head>
+<details class="dropdown details-reset details-overlay d-inline-block">
+  <summary class="btn" aria-haspopup="true">
+    Dropdown
+    <div class="dropdown-caret"></div>
+  </summary>
+
+  <ul class="dropdown-menu dropdown-menu-se">
+    <li><a class="dropdown-item" href="#url">Home</a></li>
+    <li><a class="dropdown-item" href="#url">English BLM</a></li>
+    <li><a class="dropdown-item" href="#url">History BLM</a></li>
+  </ul>
+</details>
 <title> Updates and English/History Resources</title>
 </head>
 <body style="background-color:light blue">
