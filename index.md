@@ -15,9 +15,15 @@
   </summary>
   
   <ul class="dropdown-menu dropdown-menu-e">
-  <li><a href="https://www.gov.uk/police-powers-to-stop-and-search-your-rights">Know Your Rights</a></li>
- <li><a href="https://youngminds.org.uk/find-help/get-urgent-help/youngminds-crisis-messenger/">Young Minds Messenger</a></li>
- <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfwFHnlJA-TmjwWGaZ4zqkIET8WwdUEL7e0jHsJg5URQ4HhzQ/viewform">Send Us Suggestions</a></li>
+  <li>
+   <a href="https://www.gov.uk/police-powers-to-stop-and-search-your-rights">Know Your Rights</a>
+ </li>
+ <li>
+  <a href="https://youngminds.org.uk/find-help/get-urgent-help/youngminds-crisis-messenger/">Young Minds Messenger</a>
+ </li>
+ <li>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfwFHnlJA-TmjwWGaZ4zqkIET8WwdUEL7e0jHsJg5URQ4HhzQ/viewform">Send Us Suggestions</a>
+ </li>
  </ul>
  </details>
  </div>
