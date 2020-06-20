@@ -2,7 +2,7 @@
 <head>
 <details class="dropdown details-reset details-overlay d-inline-block">
   <summary class="btn" aria-haspopup="true">
-    Dropdown
+    Subjects
     <div class="dropdown-caret"></div>
   </summary>
 
