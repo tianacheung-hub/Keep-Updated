@@ -72,9 +72,7 @@
 </p>
 <p>Catch up on Modern Black Poets podcasts <a href="https://www.bbc.co.uk/programmes/b006qp7q">BBC 4</a>
 </p>
-<hr/>
-<div class="border border-blue mb-2" width="10px" height="13px">
- 
+<hr/> 
 <img src="Poetry sign.jpeg"/> 
 <p class="p4">Interested in Modern Poetry?</p>
 <p class="p4">Click below for recommendations</p>
@@ -112,7 +110,7 @@
    </li>
     <li class="Box-row">
      <a href="https://www.youtube.com/watch?v=aBnX_iQbXvg">Mary Jean Chan
-      </div>
+  
      
  
 
