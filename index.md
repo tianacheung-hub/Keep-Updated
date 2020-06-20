@@ -7,8 +7,8 @@
   </summary>
 
   <ul class="dropdown-menu dropdown-menu-se">
-    <li><a class="dropdown-item" href="english page.html">Home</a></li>
-    <li><a class="dropdown-item" href="#url">English BLM</a></li>
+    <li><a class="dropdown-item" href="https://tianacheung-hub.github.io/keepupdated/.">Home</a></li>
+    <li><a class="dropdown-item" href="https://tianacheung-hub.github.io/keepingupdated/.">English BLM</a></li>
     <li><a class="dropdown-item" href="#url">History BLM</a></li>
   </ul>
 </details>
