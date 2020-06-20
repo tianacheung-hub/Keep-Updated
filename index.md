@@ -62,7 +62,6 @@
 </p>
 <hr/>
 <div class="border border-blue mb-2">
-  .border-blue
 <img src="Poetry sign.jpeg"/> 
 <p class="p4"><span class="s1">Interested in Modern Poetry?</span></p>
 <p class="p4"><span class="s1">Click below for recommendations </p>
