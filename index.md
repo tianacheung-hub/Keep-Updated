@@ -2,19 +2,36 @@
 <head>
 <title> Updates and English/History Resources</title>
 </head>
-<body style="background-color:light blue">
+<body style="background:$blue-300	#79b8ff">
  <div class="border border-black-fade bg-blue-light p-2 mb-2">
   <h1>Student/Teacher Updates about BLM and Subject Resources!</h1>
 </div>
 <hr/>
+<div style="margin-bottom: 100px">
+ <details class="dropdown details-reset details-overlay d-inline-block">
+  <summary class="btn" aria-haspopup="true">
+   INFO
+   <div class="dropdown-caret"></div>
+  </summary>
+  
+  <ul class="dropdown-menu dropdown-menu-e">
+  <li><a class="dropdown-item" href="https://www.gov.uk/police-powers-to-stop-and-search-your-rights">Know Your Rights</a>
+ </li>
+ <li><a class="dropdown-item" href="https://youngminds.org.uk/find-help/get-urgent-help/youngminds-crisis-messenger/">Young Minds Messenger</a>
+ </li>
+ <li><a class="dropdown-item" href="https://docs.google.com/forms/d/e/1FAIpQLSfwFHnlJA-TmjwWGaZ4zqkIET8WwdUEL7e0jHsJg5URQ4HhzQ/viewform">Send Us Suggestions</a>
+ </li>
+ </ul>
+ </details>
+ </div>
 <img src="fist.png"/> <img src="logo.png"/><img src="BLM-logo.png"/>
-<p>Hi, this is a website dedicated for Latymer students to be provided with information in a more efficient and clearer way. This is from an educational point of view where there are resources, articles and information available. As well as being a forum for people to be informed as well as understand history as the curriculum does not cover BME/BIPOC history. We aim to keep the momentum going and hopefully whilst being in lockdown, you can still educate yourself further and become a better ally.</p>
+<p>Hi, this is a website dedicated for Latymer students to be provided with information in a more efficient and clearer way. This is from an educational point of view where there are resources, articles and information available. As well as being a forum for people to be informed and understand  history that the curriculum does not cover BME/BIPOC history. We aim to keep the momentum going and hopefully whilst being in lockdown, you can still educate yourself further and become a better ally.</p>
 <p> Also, this is a forum for all students and teachers, so, if you would like to add something to this website then please send the document or resource <a href="mailto:y14tiche@latymer.co.uk">here</a></p>
 <p>If you want to write a blog or check out petitions and email templates, then go check out Zahra's BAME LDN page <a href="https://zahra-rahman.github.io/BAME-LDN.github.io/page2-about/page2-about.html">here!</a></p>
 <hr/>
 <h1 style="background-color:Yellow"> Updates! </h1>
 <img src="noraspicfinal.jpg"/>
-<h1 style="background-color:yellow"> -On Friday 26th June, there will be a Q&A talk with Dr Quinn about the History curriculum on Teams, if  you would like to be apart of this discussion, please email <a href="mailto:y13EmAdu@latymer.co.uk">Emmanuella Adu</a></h1>
+<h1 style="background-color:yellow"> -On Friday 26th June, at 5pm, there will be a Q&A talk with Dr Quinn about the History curriculum on Teams, if  you would like to be apart of this discussion, (teachers and students!) please email <a href="mailto:y13EmAdu@latymer.co.uk">Emmanuella Adu</a></h1>
 <hr/>
 <h1 style="background-color:lightpink"> Newsletter</h1>
 <embed src="Solidarity with BLM.pdf" width="500px" height="700px" />
@@ -22,7 +39,7 @@
 <p> <h1 style="background-color:lightpink">Within School Updates: How to be engaged</h1>
 - ACS society are in the process of creating a BLM board for the Great Hall, although it is a way to appreciate and commemorate Black Men and Women's history and work, we believe it shouldn't stop there. So please try to educate yourself, and look at the resource pages below. </p>
 <p>
-- As curriculum is something to discuss changing, it is a long term process, so the English as well as History department are looking for ways to incorporate educating students whether that be through extra curriculum or on a student's own accord.</P>
+- As changing the curriculum is an ongoing discussion, it is a long term process, so the English as well as History department are looking for ways to incorporate educating students whether that be through extra curriculum or on a student's own accord.</P>
 <p>
 - If you would like to be apart of an open discussion based on History that isn't taught in the curriculum, <a href="mailto:y14tiche@latymer.co.uk">press this email<a/> and let us know and you will be added to a google classroom.
 <p>
@@ -56,15 +73,15 @@
 <h1 style="background-color:lightpink">Competitions or Other Activities</h1></p>
 <p>Check out:</p>
 <p><a href="https://www.100greatblackbritons.co.uk/competition.html?fbclid=IwAR1z26m5zKbCBM30Y9BEp4Ih-YgBq17488IuQMe-bNGL0uUUG1ictNjHsdQ#children16">100 Great Britons!</a></p>
-<p>Open Parliament Petitions <a href="https://petition.parliament.uk/petitions?state=open">Here!</a>
+<p>Sign these open Parliament Petitions <a href="https://petition.parliament.uk/petitions?state=open">Here!</a>
 </p>
 <p>Catch up on Modern Black Poets podcasts <a href="https://www.bbc.co.uk/programmes/b006qp7q">BBC 4</a>
 </p>
 <hr/> 
-<img src="Poetry sign.jpeg"/>           <p> Keep up with socials!</p>
-<p class="p4">Interested in Modern Poetry?</p>          <p>Follow <a href="https://www.instagram.com/latymer_acs/">@latymer_acs</a>
-<p class="p4">Click below for recommendations</p>          <p>This month's theme is Mowtown</p>
-<p> of great Poets tackling racism and race within Poetry</span></p>          <img src=""/>
+<img src="Poetry sign.jpeg"/>          
+<p class="p4">Interested in Modern Poetry?</p>          
+<p class="p4">Click below for recommendations</p>          
+<p> of great Poets tackling racism and race within Poetry </p>          
 <div class="Box">
   <ul>
     <li class="Box-row">
@@ -97,9 +114,10 @@
      <a href="https://www.youtube.com/watch?v=Tv-6Gy0jKjw">Linton Kwesi Johnson</a>
    </li>
     <li class="Box-row">
-     <a href="https://www.youtube.com/watch?v=aBnX_iQbXvg">Mary Jean Chan
-  
+     <a href="https://www.youtube.com/watch?v=aBnX_iQbXvg">Mary Jean Chan</a>
      
- 
-
-
+<hr/>
+<h1 style="background-color:lightpink">Keep Up Wtih Socials</h1>
+<p>Follow <a href="https://www.instagram.com/latymer_acs/">@latymer_acs</a>
+<p>This month's theme is Mowtown</p>
+<img src="acs.png"/>
