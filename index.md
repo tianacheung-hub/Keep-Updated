@@ -14,9 +14,12 @@
       <div class="dropdown-caret"></div>
     </summary>
 <ul class="dropdown-menu dropdown-menu-se">
- <li><a class="dropdown-item" href="https://www.gov.uk/police-powers-to-stop-and-search-your-rights">Know Your Rights</a></li>
- <li><a class="dropdown-item" href="https://youngminds.org.uk/find-help/get-urgent-help/youngminds-crisis-messenger/">Young Minds Messenger</a></li>
- <li><a class="dropdown-item" href="https://drive.google.com/drive/folders/1dU3gRzrGuDZfdQ9X-e-T4w0WPAQAudki?usp=sharing">Send Us Suggestions</a></li>
+ <li><a class="dropdown-item">
+  <a href="https://www.gov.uk/police-powers-to-stop-and-search-your-rights">Know Your Rights</a></li>
+ <li><a class="dropdown-item">
+  <a href="https://youngminds.org.uk/find-help/get-urgent-help/youngminds-crisis-messenger/">Young Minds Messenger</a></li>
+ <li><a class="dropdown-item">
+  <a href="https://drive.google.com/drive/folders/1dU3gRzrGuDZfdQ9X-e-T4w0WPAQAudki?usp=sharing">Send Us Suggestions</a></li>
     </ul>
   </details>
 </div>
