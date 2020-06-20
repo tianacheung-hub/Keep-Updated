@@ -64,7 +64,7 @@
 <img src="Poetry sign.jpeg"/>          
 <p class="p4">Interested in Modern Poetry?</p>          
 <p class="p4">Click below for recommendations</p>          
-<p> of great Poets tackling racism and race within Poetry</span></p>          
+<p> of great Poets tackling racism and race within Poetry </p>          
 <div class="Box">
   <ul>
     <li class="Box-row">
