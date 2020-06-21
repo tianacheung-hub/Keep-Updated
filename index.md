@@ -50,7 +50,7 @@
 <h1 style="background-color:lightpink"> Articles written by Students to Read</H1>
 <embed src="MEDICINE, racism in healthcare.pdf" width="500px" height="700px" />
 <hr/>
-<h1 style="background-color:lightpink"> "Think About History"</h1>
+<h1 style="background-color:lightpink"> "Think About History Now and Then"</h1>
 <p><embed src="Mary Seacole and Florence Nightingale.pdf" width="400px" height="600px"  />     <embed src="Windrush gen.pdf" width="400px" height="600px" />
 </p>
 <p><h2>Extra Fact Files To Read <a href="https://drive.google.com/drive/folders/1WNfUH2is9YHAPXOEV78Ou9-7mDPmdsBx?usp=sharing">here!</a></h2></p>
