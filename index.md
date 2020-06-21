@@ -53,6 +53,7 @@
 <h1 style="background-color:lightpink"> "Think About History"</h1>
 <p><embed src="Mary Seacole and Florence Nightingale.pdf" width="400px" height="600px"  />     <embed src="Windrush gen.pdf" width="400px" height="600px" />
 </p>
+<p><h2>Extra Fact Files To Read <a href="https://drive.google.com/drive/folders/1WNfUH2is9YHAPXOEV78Ou9-7mDPmdsBx?usp=sharing">here!</a></h2></p>
 <hr/>
 <p>
 <h1 style="background-color:lightpink">Competitions or Other Activities</h1></p>
