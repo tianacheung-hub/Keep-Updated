@@ -44,7 +44,6 @@
     <li class="Box-row">
      <p><h3> Justice for Breonna Taylor and countless others</h3></p>
 <p><a href="https://linktr.ee/acab">Resource Card</a></p>
-
 <hr/>
 <p><h1 style="background-color:lightpink"> Resources to educate yourself and family!</h1><p>
 <p><a href="https://drive.google.com/drive/folders/1dU3gRzrGuDZfdQ9X-e-T4w0WPAQAudki?usp=sharing">Resource List of Books/Films</a></p>
@@ -53,7 +52,6 @@
 <p>If you have parents who might not understand what's going on with BLM, or cannot understand English as well as you can, here is a link for pre-written letters written in multiple languages that might help them understand more. <a href="https://lettersforblacklives.com/2020/home">Letters For Black Lives</a></p>
 <p> A lot of us, students and teachers, might not know our rights. Check this website, <a href="https://www.gov.uk/police-powers-to-stop-and-search-your-rights">learn your rights</a></p>
 <p>Feeling overwhelmed? Make sure to take care of yourself physically and mentally. Young Minds has a great 24/7 Crisis Messenger service where anyone can text a trained volunteer. Check their website for networks that allow you to text them for free <a href="https://youngminds.org.uk/find-help/get-urgent-help/youngminds-crisis-messenger/">here.</a> Text 'YM' to 85258. </p>
-
 <hr/>
 <h1 style="background-color:lightpink">Literary Magazine Updates!</h1>
 
@@ -115,8 +113,7 @@
      <a href="https://www.youtube.com/watch?v=Tv-6Gy0jKjw">Linton Kwesi Johnson</a>
    </li>
     <li class="Box-row">
-     <a href="https://www.youtube.com/watch?v=aBnX_iQbXvg">Mary Jean Chan</a>
-     
+     <a href="https://www.youtube.com/watch?v=aBnX_iQbXvg">Mary Jean Chan</a>  
 <hr/>
 <h1 style="background-color:lightpink">Keep Up Wtih Socials</h1>
 <div class="Box">
