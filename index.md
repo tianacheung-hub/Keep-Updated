@@ -80,7 +80,7 @@
 </p>
 <hr/> 
 <img src="Poetry sign.jpeg"/>          
-<p class="p4">Interested in Modern Poetry?</p>          
+<p class="p4"><h3>Interested in Modern Poetry?</p></h3>        
 <p class="p4">Click below for recommendations</p>          
 <p> of great Poets tackling racism and race within Poetry </p>          
 <div class="Box">
