@@ -122,16 +122,16 @@
 <div class="Box">
   <ul>
     <li class="Box-row">
-Follow <a href="https://www.instagram.com/latymer_acs/">@latymer_acs</a>
+     <h4>Follow <a href="https://www.instagram.com/latymer_acs/">@latymer_acs</a></h4>
 <p>This month's theme is Mowtown.</p> 
 <p><img src="acs.png"/></p>
 
 <li class="Box-row">
-Aspiring Medics? Follow <a href="https://www.instagram.com/journey.2.med/">@journey.2.med</a> on insta/youtube
+<h4>Aspiring Medics? Follow <a href="https://www.instagram.com/journey.2.med/">@journey.2.med</a> on insta/youtube</h4>
 <p>Press the Pic below and check out their vid</p>
 <p>'Being Black At Medical School - My Experience'</p>
 <p><a href="https://www.youtube.com/watch?v=x-nm5Gyf2fc"><img src="journey2med.png"/></a></p>
  
 <li class="Box-row">
-<p>Need help understanding/explaining</p>
+<p><h4>Need help understanding/explaining</p></h4>
 <p>Systemic Racism? check out this <a href="https://www.youtube.com/watch?v=YrHIQIO_bdQ">clip</a></p>
