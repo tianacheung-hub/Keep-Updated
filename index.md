@@ -111,7 +111,7 @@
 <p><img src="acs.png"/></p>
 
 <li class="Box-row">
- Aspiring Medics? Follow <a href="https://www.instagram.com/journey.2.med/">@journey.2.med</a> on insta/youtube</p>
+Aspiring Medics? Follow <a href="https://www.instagram.com/journey.2.med/">@journey.2.med</a> on insta/youtube
 <p>Press the Pic below and check out their vid</p>
 <p>'Being Black At Medical School - My Experience'</p>
 <p><a href="https://www.youtube.com/watch?v=x-nm5Gyf2fc"><img src="journey2med.png"/></a></p>
