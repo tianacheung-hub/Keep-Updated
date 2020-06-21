@@ -103,8 +103,18 @@
      
 <hr/>
 <h1 style="background-color:lightpink">Keep Up Wtih Socials</h1>
-<p>- Follow <a href="https://www.instagram.com/latymer_acs/">@latymer_acs</a></p>
-<p>This month's theme is Mowtown</p>   
-<img src="acs.png"/>
-<p><a href="https://www.youtube.com/watch?v=YrHIQIO_bdQ">- Systemic Racism Explaind</a> </p> 
-<p>^ Need help understanding/explaining Systemic Racism, check out this clip</p>
+<div class="Box">
+  <ul>
+    <li class="Box-row">
+ Follow <a href="https://www.instagram.com/latymer_acs/">@latymer_acs</a></p>
+<p>This month's theme is Mowtown.</p> 
+<p><img src="acs.png"/></p>
+
+<li class="Box-row">
+ Aspiring Medics? Follow <a href="https://www.instagram.com/journey.2.med/">@journey.2.med</a> on insta/youtube</p>
+<p>Press the Pic below and check out thier vid</p>
+<p><a href="https://www.youtube.com/watch?v=x-nm5Gyf2fc"><img src="journey2med.png"/></a></p>
+ 
+<li class="Box-row">
+<p>Need help understanding/explaining</p>
+<p>Systemic Racism? check out this <a href="https://www.youtube.com/watch?v=YrHIQIO_bdQ">clip</a></p>
