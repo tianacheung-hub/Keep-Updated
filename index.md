@@ -31,6 +31,21 @@
 - Please keep updated with this website as well as Zahra's in the link above, I will keep updating so that your emails won't be spammed and can be a better way to take in information! 
 </p>
 <hr/>
+<p>
+ <h1 style="background-color:lightpink">Justice For !</h1>
+ <div class="Box">
+  <ul>
+    <li class="Box-row">
+     <p><h3> Elijah Mcclain</h3></p>
+  <p><a href="https://linktr.ee/Justiceforelijahmcclain">Elijah Resource Card</a></p>
+    <li class="Box-row">
+     <p><h3> FIGHT FOR YEMEN </h3></p>
+ <p><a href="https://linktr.ee/Freddie.Gandy">Yemen Resource Card</a></p>
+    <li class="Box-row">
+     <p><h3> Justice for Breonna Taylor and countless others</h3></p>
+<p><a href="https://linktr.ee/acab">Resource Card</a></p>
+
+<hr/>
 <h1 style="background-color:lightpink"> Resources to educate yourself and family!</h1>
 <p><a href="https://drive.google.com/drive/folders/1dU3gRzrGuDZfdQ9X-e-T4w0WPAQAudki?usp=sharing">Resource List of Books/Films</a></p>
 <p>
