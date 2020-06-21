@@ -106,7 +106,7 @@
 <div class="Box">
   <ul>
     <li class="Box-row">
- Follow <a href="https://www.instagram.com/latymer_acs/">@latymer_acs</a></p>
+Follow <a href="https://www.instagram.com/latymer_acs/">@latymer_acs</a>
 <p>This month's theme is Mowtown.</p> 
 <p><img src="acs.png"/></p>
 
