@@ -7,23 +7,6 @@
   <h1>Student/Teacher Updates about BLM and Subject Resources!</h1>
 </div>
 <hr/>
-<div style="margin-bottom: 100px">
- <details class="dropdown details-reset details-overlay d-inline-block">
-  <summary class="btn" aria-haspopup="true">
-   INFO
-   <div class="dropdown-caret"></div>
-  </summary>
-  
-  <ul class="dropdown-menu dropdown-menu-e">
-  <li><a class="dropdown-item" href="https://www.gov.uk/police-powers-to-stop-and-search-your-rights">Know Your Rights</a>
- </li>
- <li><a class="dropdown-item" href="https://youngminds.org.uk/find-help/get-urgent-help/youngminds-crisis-messenger/">Young Minds Messenger</a>
- </li>
- <li><a class="dropdown-item" href="https://docs.google.com/forms/d/e/1FAIpQLSfwFHnlJA-TmjwWGaZ4zqkIET8WwdUEL7e0jHsJg5URQ4HhzQ/viewform">Send Us Suggestions</a>
- </li>
- </ul>
- </details>
- </div>
 <img src="fist.png"/> <img src="logo.png"/><img src="BLM-logo.png"/>
 <p>Hi, this is a website dedicated for Latymer students to be provided with information in a more efficient and clearer way. This is from an educational point of view where there are resources, articles and information available. As well as being a forum for people to be informed and understand  history that the curriculum does not cover BME/BIPOC history. We aim to keep the momentum going and hopefully whilst being in lockdown, you can still educate yourself further and become a better ally.</p>
 <p> Also, this is a forum for all students and teachers, so, if you would like to add something to this website then please send the document or resource <a href="mailto:y14tiche@latymer.co.uk">here</a></p>
@@ -52,8 +35,10 @@
 <p><a href="https://drive.google.com/drive/folders/1dU3gRzrGuDZfdQ9X-e-T4w0WPAQAudki?usp=sharing">Resource List of Books/Films</a></p>
 <p>
 <a href="https://literacytrust.org.uk/resources/black-lives-matter-book-lists-ages-0-16/?mc_cid=8ea2999360&amp;mc_eid=917a23e4d4">Reading Books ages 0-16+</a></p>
-<p>If you have parents who might not understand what's going on with BLM, or cannot understand English as well as you can, here is a link for pre-written letters written in multiple languages that might help them understand more
-<a href="https://lettersforblacklives.com/2020/home">Letters For Black Lives</a></p>
+<p>If you have parents who might not understand what's going on with BLM, or cannot understand English as well as you can, here is a link for pre-written letters written in multiple languages that might help them understand more. <a href="https://lettersforblacklives.com/2020/home">Letters For Black Lives</a></p>
+<p> A lot of us, students and teachers, might not know our rights. Check this website, <a href="https://www.gov.uk/police-powers-to-stop-and-search-your-rights">learn your rights</a></p>
+<p>Feeling overwhelmed? Make sure to take care of yourself physically and mentally. Young Minds has a great 24/7 Crisis Messenger service where anyone can text a trained volunteer. Check their website for networks that allow you to text them for free <a href="https://youngminds.org.uk/find-help/get-urgent-help/youngminds-crisis-messenger/">here.</a> Text 'YM' to 85258. </p>
+
 <hr/>
 <h1 style="background-color:lightpink">Literary Magazine Updates!</h1>
 
@@ -118,6 +103,8 @@
      
 <hr/>
 <h1 style="background-color:lightpink">Keep Up Wtih Socials</h1>
-<p>Follow <a href="https://www.instagram.com/latymer_acs/">@latymer_acs</a>
-<p>This month's theme is Mowtown</p>
+<p>- Follow <a href="https://www.instagram.com/latymer_acs/">@latymer_acs</a></p>
+<p>This month's theme is Mowtown</p>   
 <img src="acs.png"/>
+<p><a href="https://www.youtube.com/watch?v=YrHIQIO_bdQ">- Systemic Racism Explaind</a> </p> 
+<p>^ Need help understanding/explaining Systemic Racism, check out this clip</p>
