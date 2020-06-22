@@ -78,7 +78,7 @@
 </p>
 <hr/> 
 <img src="Poetry sign.jpeg"/>          
-<p class="p4"><h3>Interested in Modern Poetry?</p></h3>        
+<p class="p4"><h3>Interested in Modern Poetry?</h3>        
 <p class="p4">Click below for recommendations</p>          
 <p> of great Poets tackling racism and race within Poetry </p>          
 <div class="Box">
@@ -130,5 +130,5 @@
 <p><a href="https://www.youtube.com/watch?v=x-nm5Gyf2fc"><img src="journey2med.png"/></a></p>
  
 <li class="Box-row">
-<p><h4>Need help understanding/explaining</p></h4>
+<p><h4>Need help understanding/explaining</h4></p>
 <p>Systemic Racism? check out this <a href="https://www.youtube.com/watch?v=YrHIQIO_bdQ">clip</a></p>
