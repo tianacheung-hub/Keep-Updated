@@ -130,7 +130,7 @@
 <h4>Aspiring Medics? Follow <a href="https://www.instagram.com/journey.2.med/">@journey.2.med</a> on insta/youtube</h4>
 <p>Press the Pic below and check out their vid</p>
 <p>'Being Black At Medical School - My Experience'</p>
-<p><a href="https://www.youtube.com/watch?v=x-nm5Gyf2fc"><img src="journey2med.png"/></a></p>
+<p><a href="https://www.youtube.com/watch?v=x-nm5Gyf2fc"><img src="newjourney2med.png"/></a></p>
  
 <li class="Box-row">
 <p><h4>Need help understanding/explaining</h4>
