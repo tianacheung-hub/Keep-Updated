@@ -130,5 +130,5 @@
 <p><a href="https://www.youtube.com/watch?v=x-nm5Gyf2fc"><img src="journey2med.png"/></a></p>
  
 <li class="Box-row">
-<p><h4>Need help understanding/explaining</h4></p>
+<p><h4>Need help understanding/explaining</h4>
 <p>Systemic Racism? check out this <a href="https://www.youtube.com/watch?v=YrHIQIO_bdQ">clip</a></p>
