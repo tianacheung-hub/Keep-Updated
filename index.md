@@ -45,7 +45,7 @@
   <p><h3> Justice for Breonna Taylor and countless others</h3></p>
 <p><a href="https://linktr.ee/acab">Resource Card</a></p>
  <li class="Box-row">
- <p><h3> SHRUKI ABDI </h3></p>
+ <p><h3> SHRUKI ABDI</h3></p>
  <p><a href="https://linktr.ee/sagalmuse">Shruki's Resource card </a></p>
 <hr/>
 <p><h1 style="background-color:lightpink"> Resources to educate yourself and family!</h1><p>
