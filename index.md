@@ -17,7 +17,7 @@
 <h1 style="background-color:yellow"> -On Friday 26th June, at 5pm, there will be a Q&A talk with Dr Quinn about the History curriculum on Teams, if  you would like to be apart of this discussion, (teachers and students!) please email <a href="mailto:y13EmAdu@latymer.co.uk">Emmanuella Adu</a></h1>
 <hr/>
 <h1 style="background-color:lightpink"> Newsletter</h1>
-<embed src="Solidarity with BLM.pdf" width="500px" height="700px" />
+<a href="https://drive.google.com/drive/folders/1E03SWB68L_ejIOb-b9JTyMqR2fGh8NYy?usp=sharing">"Solidarity with BLM"</a>
 <hr/>
 <p> <h1 style="background-color:lightpink">Within School Updates: How to be engaged</h1>
 - ACS society are in the process of creating a BLM board for the Great Hall, although it is a way to appreciate and commemorate Black Men and Women's history and work, we believe it shouldn't stop there. So please try to educate yourself, and look at the resource pages below. </p>
