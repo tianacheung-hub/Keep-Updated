@@ -118,7 +118,7 @@
     <li class="Box-row">
      <a href="https://www.youtube.com/watch?v=aBnX_iQbXvg">Mary Jean Chan</a>  
 <hr/>
-<h1 style="background-color:lightpink">Keep Up Wtih Socials</h1>
+<h1 style="background-color:lightblue">Keep Up Wtih Socials</h1>
 <div class="Box">
   <ul>
     <li class="Box-row">
