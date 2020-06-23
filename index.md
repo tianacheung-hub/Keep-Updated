@@ -31,7 +31,6 @@
 - Please keep updated with this website as well as Zahra's in the link above, I will keep updating so that your emails won't be spammed and can be a better way to take in information! 
 </p>
 <hr/>
-<p>
 <h1 style="background-color:lightpink">Justice For !</h1>
 <div class="Box">
 <ul>
@@ -63,15 +62,14 @@
 <p class="p4"><span class="s1">July's theme will be 'London'. Details on contributing are at the end of the issue.</span></p>
 <embed src="Euphrasia.pdf" width="500px" height="700px" />
 <hr/>
-<h1 style="background-color:lightpink"> Articles written by Students to Read</H1>
+<h1 style="background-color:lightpink">Articles written by Students to Read</H1>
 <embed src="MEDICINE, racism in healthcare.pdf" width="500px" height="700px" />
 <hr/>
-<h1 style="background-color:lightpink"> "Think About History Now and Then"</h1>
+<h1 style="background-color:lightpink">"Think About History Now and Then"</h1>
 <p><embed src="Mary Seacole and Florence Nightingale.pdf" width="400px" height="600px"  />     <embed src="Windrush gen.pdf" width="400px" height="600px" />
 </p>
 <p><h2>Extra Fact Files To Read <a href="https://drive.google.com/drive/folders/1WNfUH2is9YHAPXOEV78Ou9-7mDPmdsBx?usp=sharing">here!</a></h2></p>
 <hr/>
-<p>
 <h1 style="background-color:lightpink">Competitions or Other Activities</h1></p>
 <p>Check out:</p>
 <p><a href="https://www.100greatblackbritons.co.uk/competition.html?fbclid=IwAR1z26m5zKbCBM30Y9BEp4Ih-YgBq17488IuQMe-bNGL0uUUG1ictNjHsdQ#children16">100 Great Britons!</a></p>
