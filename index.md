@@ -17,7 +17,7 @@
 <h1 style="background-color:yellow"> -On Friday 26th June, at 5pm, there will be a Q&A talk with Dr Quinn about the History curriculum on Teams, if  you would like to be apart of this discussion, (teachers and students!) please email <a href="mailto:y13EmAdu@latymer.co.uk">Emmanuella Adu</a></h1>
 <hr/>
 <h1 style="background-color:lightpink"> Newsletter</h1>
-<embed src="Solidarity with BLM.pdf" width="500px" height="700px" />
+<a href="https://drive.google.com/drive/folders/1E03SWB68L_ejIOb-b9JTyMqR2fGh8NYy?usp=sharing">"Solidarity with BLM"</a>
 <hr/>
 <p> <h1 style="background-color:lightpink">Within School Updates: How to be engaged</h1>
 - ACS society are in the process of creating a BLM board for the Great Hall, although it is a way to appreciate and commemorate Black Men and Women's history and work, we believe it shouldn't stop there. So please try to educate yourself, and look at the resource pages below. </p>
@@ -31,7 +31,6 @@
 - Please keep updated with this website as well as Zahra's in the link above, I will keep updating so that your emails won't be spammed and can be a better way to take in information! 
 </p>
 <hr/>
-<p>
 <h1 style="background-color:lightpink">Justice For !</h1>
 <div class="Box">
 <ul>
@@ -48,7 +47,7 @@
  <p><h3> SHRUKI ABDI</h3></p>
  <p><a href="https://linktr.ee/sagalmuse">Shruki's Resource card </a></p>
 <hr/>
-<p><h1 style="background-color:lightpink"> Resources to educate yourself and family!</h1><p>
+<h1 style="background-color:lightpink"> Resources to educate yourself and family!</h1>
 <p><a href="https://drive.google.com/drive/folders/1dU3gRzrGuDZfdQ9X-e-T4w0WPAQAudki?usp=sharing">Resource List of Books/Films</a></p>
 <p>
 <a href="https://literacytrust.org.uk/resources/black-lives-matter-book-lists-ages-0-16/?mc_cid=8ea2999360&amp;mc_eid=917a23e4d4">Reading Books ages 0-16+</a></p>
@@ -63,16 +62,15 @@
 <p class="p4"><span class="s1">July's theme will be 'London'. Details on contributing are at the end of the issue.</span></p>
 <embed src="Euphrasia.pdf" width="500px" height="700px" />
 <hr/>
-<h1 style="background-color:lightpink"> Articles written by Students to Read</H1>
+<h1 style="background-color:lightpink">Articles written by Students to Read</H1>
 <embed src="MEDICINE, racism in healthcare.pdf" width="500px" height="700px" />
 <hr/>
-<h1 style="background-color:lightpink"> "Think About History Now and Then"</h1>
+<h1 style="background-color:lightpink">"Think About History Now and Then"</h1>
 <p><embed src="Mary Seacole and Florence Nightingale.pdf" width="400px" height="600px"  />     <embed src="Windrush gen.pdf" width="400px" height="600px" />
 </p>
 <p><h2>Extra Fact Files To Read <a href="https://drive.google.com/drive/folders/1WNfUH2is9YHAPXOEV78Ou9-7mDPmdsBx?usp=sharing">here!</a></h2></p>
 <hr/>
-<p>
-<h1 style="background-color:lightpink">Competitions or Other Activities</h1></p>
+<h1 style="background-color:lightpink">Competitions or Other Activities</h1>
 <p>Check out:</p>
 <p><a href="https://www.100greatblackbritons.co.uk/competition.html?fbclid=IwAR1z26m5zKbCBM30Y9BEp4Ih-YgBq17488IuQMe-bNGL0uUUG1ictNjHsdQ#children16">100 Great Britons!</a></p>
 <p>Sign these open Parliament Petitions <a href="https://petition.parliament.uk/petitions?state=open">Here!</a>
@@ -118,7 +116,7 @@
     <li class="Box-row">
      <a href="https://www.youtube.com/watch?v=aBnX_iQbXvg">Mary Jean Chan</a>  
 <hr/>
-<h1 style="background-color:lightpink">Keep Up Wtih Socials</h1>
+<h1 style="background-color:lightblue">Keep Up Wtih Socials</h1>
 <div class="Box">
   <ul>
     <li class="Box-row">
@@ -130,7 +128,7 @@
 <h4>Aspiring Medics? Follow <a href="https://www.instagram.com/journey.2.med/">@journey.2.med</a> on insta/youtube</h4>
 <p>Press the Pic below and check out their vid</p>
 <p>'Being Black At Medical School - My Experience'</p>
-<p><a href="https://www.youtube.com/watch?v=x-nm5Gyf2fc"><img src="journey2med.png"/></a></p>
+<p><a href="https://www.youtube.com/watch?v=x-nm5Gyf2fc"><img src="newjourney2med.png"/></a></p>
  
 <li class="Box-row">
 <p><h4>Need help understanding/explaining</h4>
