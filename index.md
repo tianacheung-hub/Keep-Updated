@@ -47,7 +47,7 @@
  <p><h3> SHRUKI ABDI</h3></p>
  <p><a href="https://linktr.ee/sagalmuse">Shruki's Resource card </a></p>
 <hr/>
-<p><h1 style="background-color:lightpink"> Resources to educate yourself and family!</h1><p>
+<h1 style="background-color:lightpink"> Resources to educate yourself and family!</h1>
 <p><a href="https://drive.google.com/drive/folders/1dU3gRzrGuDZfdQ9X-e-T4w0WPAQAudki?usp=sharing">Resource List of Books/Films</a></p>
 <p>
 <a href="https://literacytrust.org.uk/resources/black-lives-matter-book-lists-ages-0-16/?mc_cid=8ea2999360&amp;mc_eid=917a23e4d4">Reading Books ages 0-16+</a></p>
