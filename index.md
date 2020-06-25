@@ -45,7 +45,8 @@
 <p><a href="https://linktr.ee/acab">Resource Card</a></p>
  <li class="Box-row">
  <p><h3> SHRUKI ABDI</h3></p>
- <p><a href="https://linktr.ee/sagalmuse">Shruki's Resource card </a></p>
+ <p><a href="https://linktr.ee/sagalmuse">Shruki's Resource card </a>
+</p>
 <hr/>
 <h1 style="background-color:lightpink"> Resources to educate yourself and family!</h1>
 <p><a href="https://drive.google.com/drive/folders/1dU3gRzrGuDZfdQ9X-e-T4w0WPAQAudki?usp=sharing">Resource List of Books/Films</a></p>
