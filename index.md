@@ -58,6 +58,7 @@
 <hr/>
 <h1 style="background-color:lightpink">Extra English: But Through The Eyes of...</h1>
 <embed src="The Tempest - Caliban.pdf" width="400px" height="600px"/>
+<hr/>
 
 <h1 style="background-color:lightpink">Literary Magazine Updates!</h1>
 
