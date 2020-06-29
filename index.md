@@ -15,8 +15,7 @@
 <p>If you want to write a blog or check out petitions and email templates, then go check out Zahra's BAME LDN page <a href="https://zahra-rahman.github.io/BAME_LDN/">here!</a></p>
 <hr/>
 <h1 style="background-color:Yellow"> Updates! </h1>
-<img src="noraspic3.jpeg"/>
-<h1 style="background-color:yellow"> -On Friday 26th June, at 5pm, there will be a Q&A talk with Dr Quinn about the History curriculum on Teams, if  you would like to be apart of this discussion, (teachers and students!) please email <a href="mailto:y13EmAdu@latymer.co.uk">Emmanuella Adu</a></h1>
+TBC
 <hr/>
 <h1 style="background-color:lightpink"> Newsletter</h1>
 <a href="https://drive.google.com/drive/folders/1E03SWB68L_ejIOb-b9JTyMqR2fGh8NYy?usp=sharing">"Solidarity with BLM"</a>
