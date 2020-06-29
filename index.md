@@ -16,6 +16,7 @@
 <hr/>
 <h1 style="background-color:Yellow"> Updates! </h1>
 TBC
+<a href="https://drive.google.com/drive/u/2/folders/1EV4pLH9iv3edDVYOJpDYLmLFhryk7IhU">Updates Archive</a>
 <hr/>
 <h1 style="background-color:lightpink"> Newsletter</h1>
 <a href="https://drive.google.com/drive/folders/1E03SWB68L_ejIOb-b9JTyMqR2fGh8NYy?usp=sharing">"Solidarity with BLM"</a>
