@@ -17,8 +17,6 @@
 <h1 style="background-color:Yellow"> Updates! </h1>
 <p><h3 style="background-color:Yellow"> 500 WORDS: BLACK LIVES MATTER PRESS <a href="https://500words.me/"> HERE</a> (Closes THIS FRIDAY)</h3></p>
 <p>
-TBC
-<p>
 <a href="https://drive.google.com/drive/u/2/folders/1EV4pLH9iv3edDVYOJpDYLmLFhryk7IhU">Updates Archive</a>
 </p>
 <hr/>
