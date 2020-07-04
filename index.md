@@ -124,10 +124,6 @@
      <a href="https://www.youtube.com/watch?v=aBnX_iQbXvg">Mary Jean Chan</a>  
 <hr/>
 <h1 style="background-color:lightblue">Keep Up Wtih Socials</h1>
-<div class="position-relative p-6 bg-gray">
-  <div class="d-inline-block position-md-absolute bottom-0 right-0 border bg-white p-2">
-    Keeping Up With Socials
-  </div>
 </div>
 
 <div class="float-left border m-3" style="width:250px; height:370px;">
@@ -137,13 +133,15 @@
 <p>'Being Black At Medical School - My Experience'</p>
 <p><a href="https://www.youtube.com/watch?v=x-nm5Gyf2fc"><img src="newjourney2med.png"/></a></p>
 </div>
-<div class="float-left border m-3" style="width:550px; height:390px;">
+<div class="float-left border m-3" style="width:550px; height:400px;">
  <h4>ACS LATYMER</h4>
  <h4>Follow <a href="https://www.instagram.com/latymer_acs/">@latymer_acs</a></h4>
  <p>'A student-led instagram page run by members of the Afro-Carribean Society (ACS) helping to educate the Latymer school community on black history, art, music and culture. The page contains book recommendations as well as netflix series, films, documentaries and youtubers that we ourselves have watched and would recommend as a way of learning about black figures and history that shape our society. In addition, we address current political issues affecting our community and try to stimulate constructive discussion in order to better our own school environment. We really hope that this page can act as a source of positive representation for students in the school in order to push black excellence to the forefront and redefine race narratives in our own small way'~ Lola</p> 
 <h4>This Month's Theme Is Mowtown.</h4>
 <p><img src="acs.png"/></p>
 </div>
+<p>
+</p>
 <p>
 <div class="float-left border m-3" style="width:300px; height:400px;">
  <h4>BAME LDN</h4>
@@ -153,7 +151,7 @@
   <p>Press the picture below to follow their instagram page</p>
   <p><a href="https://www.instagram.com/bame_ldn/"><img src="BAME LDN.png"/></a></p>
 </div>
-<div class="float-left border m-3" style="width:300px; height:300px;">
+<div class="float-left border m-3" style="width:300px; height:200px;">
  <h4>SYSTEMIC RACISM</h4>
  <p><h4>Need help understanding/explaining</h4>
 <p>Systemic Racism? check out this <a href="https://www.youtube.com/watch?v=YrHIQIO_bdQ">clip</a></p>
