@@ -124,6 +124,21 @@
      <a href="https://www.youtube.com/watch?v=aBnX_iQbXvg">Mary Jean Chan</a>  
 <hr/>
 <h1 style="background-color:lightblue">Keep Up Wtih Socials</h1>
+<div class="position-relative p-6 bg-gray">
+  <div class="d-inline-block position-md-absolute bottom-0 right-0 border bg-white p-2">
+    BAME LDN
+  </div>
+</div>
+
+<div class="float-left border m-3" style="width:100px; height:100px;">
+  JOURNEY 2 MED
+</div>
+<div class="float-left border m-3" style="width:100px; height:100px;">
+  SYSTEMIC RACISM
+</div>
+<div class="float-left border m-3" style="width:100px; height:100px;">
+ ACS LATYMER
+</div>
 <div class="Box">
   <ul>
     <li class="Box-row">
@@ -142,9 +157,4 @@ We really hope that this page can act as a source of positive representation for
 <li class="Box-row">
 <p><h4>Need help understanding/explaining</h4>
 <p>Systemic Racism? check out this <a href="https://www.youtube.com/watch?v=YrHIQIO_bdQ">clip</a></p>
- <x-slidebox>
-  <x-slide><img src="newjourney2med.png" /></x-slide>
-  <x-slide><img src="acs.png" /></x-slide>
-  <x-slide><img src="BAME LDN.png" /></x-slide>
-  <x-slide><img src="Systemic racism.png" /></x-slide>
-</x-slidebox>
+ 
