@@ -142,3 +142,9 @@ We really hope that this page can act as a source of positive representation for
 <li class="Box-row">
 <p><h4>Need help understanding/explaining</h4>
 <p>Systemic Racism? check out this <a href="https://www.youtube.com/watch?v=YrHIQIO_bdQ">clip</a></p>
+ <x-slidebox>
+  <x-slide><img src="newjourney2med.png" /></x-slide>
+  <x-slide><img src="acs.png" /></x-slide>
+  <x-slide><img src="BAME LDN.png" /></x-slide>
+  <x-slide><img src="Systemic racism.png" /></x-slide>
+</x-slidebox>
