@@ -149,7 +149,7 @@ We really hope that this page can act as a source of positive representation for
  <h4>BAME LDN</h4>
  <p>Check Out Zahra's Website</p>
  <p>Has petitions and resources</p>
- <p>Click <a href=""https://zahra-rahman.github.io/BAME_LDN/">here</a> to see the website!</p>
+ <p>Click <a href="https://zahra-rahman.github.io/BAME_LDN/">here</a> to see the website!</p>
   <p>Press the picture below to follow their instagram page</p>
   <p><a href="https://www.instagram.com/bame_ldn/"><img src="BAME LDN.png"/</a></p>
 </div>
