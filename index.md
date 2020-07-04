@@ -124,8 +124,7 @@
      <a href="https://www.youtube.com/watch?v=aBnX_iQbXvg">Mary Jean Chan</a>  
 <hr/>
 <h1 style="background-color:lightblue">Keep Up Wtih Socials</h1>
-</div>
-
+     
 <div class="float-left border m-3" style="width:250px; height:370px;">
  <h4>JOURNEY 2 MED</h4>
  <h4>Aspiring Medics? Follow <a href="https://www.instagram.com/journey.2.med/">@journey.2.med</a> on insta/youtube</h4>
