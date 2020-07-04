@@ -158,23 +158,3 @@ We really hope that this page can act as a source of positive representation for
  <p><h4>Need help understanding/explaining</h4>
 <p>Systemic Racism? check out this <a href="https://www.youtube.com/watch?v=YrHIQIO_bdQ">clip</a></p>
 </div>
-<p>
-<div class="Box">
-  <ul>
-    <li class="Box-row">
-     <h4>Follow <a href="https://www.instagram.com/latymer_acs/">@latymer_acs</a></h4>
-<p>'A student-led instagram page run by members of the Afro-Carribean Society (ACS) helping to educate the Latymer school community on black history, art, music and culture. The page contains book recommendations as well as netflix series, films, documentaries and youtubers that we ourselves have watched and would recommend as a way of learning about black figures and history that shape our society. In addition, we address current political issues affecting our community and try to stimulate constructive discussion in order to better our own school environment.
-We really hope that this page can act as a source of positive representation for students in the school in order to push black excellence to the forefront and redefine race narratives in our own small way'~ Lola </p> 
-<h4>This Month's Theme Is Mowtown. </h4>
-<p><img src="acs.png"/></p>
-
-<li class="Box-row">
-<h4>Aspiring Medics? Follow <a href="https://www.instagram.com/journey.2.med/">@journey.2.med</a> on insta/youtube</h4>
-<p>Press the Pic below and check out their vid</p>
-<p>'Being Black At Medical School - My Experience'</p>
-<p><a href="https://www.youtube.com/watch?v=x-nm5Gyf2fc"><img src="newjourney2med.png"/></a></p>
- 
-<li class="Box-row">
-<p><h4>Need help understanding/explaining</h4>
-<p>Systemic Racism? check out this <a href="https://www.youtube.com/watch?v=YrHIQIO_bdQ">clip</a></p>
- 
