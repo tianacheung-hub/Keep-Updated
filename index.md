@@ -150,9 +150,9 @@
  <p>Has petitions and resources</p>
  <p>Click <a href="https://zahra-rahman.github.io/BAME_LDN/">here</a> to see the website!</p>
   <p>Press the picture below to follow their instagram page</p>
-  <p><a href="https://www.instagram.com/bame_ldn/"><img src="BAME LDN.png"/</a></p>
+  <p><a href="https://www.instagram.com/bame_ldn/"><img src="BAME LDN.png"/></a></p>
 </div>
-<div class="float-left border m-3" style="width:300px; height:400px;">
+<div class="float-left border m-3" style="width:300px; height:300px;">
  <h4>SYSTEMIC RACISM</h4>
  <p><h4>Need help understanding/explaining</h4>
 <p>Systemic Racism? check out this <a href="https://www.youtube.com/watch?v=YrHIQIO_bdQ">clip</a></p>
