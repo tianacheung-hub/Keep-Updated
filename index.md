@@ -158,6 +158,7 @@ We really hope that this page can act as a source of positive representation for
  <p><h4>Need help understanding/explaining</h4>
 <p>Systemic Racism? check out this <a href="https://www.youtube.com/watch?v=YrHIQIO_bdQ">clip</a></p>
 </div>
+<p>
 <div class="Box">
   <ul>
     <li class="Box-row">
