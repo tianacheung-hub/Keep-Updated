@@ -15,7 +15,7 @@
 <p>If you want to write a blog or check out petitions and email templates, then go check out Zahra's BAME LDN page <a href="https://zahra-rahman.github.io/BAME_LDN/">here!</a></p>
 <hr/>
 <h1 style="background-color:Yellow"> Updates! </h1>
-<p><h3 style="background-color:Yellow"> 500 WORDS: BLACK LIVES MATTER PRESS <a href="https://500words.me/"> HERE</a> (Closes THIS FRIDAY)</h3></p>
+<p><h3 style="background-color:Yellow"> TBC </h3></p>
 <p>
 <a href="https://drive.google.com/drive/u/2/folders/1EV4pLH9iv3edDVYOJpDYLmLFhryk7IhU">Updates Archive</a>
 </p>
