@@ -8,13 +8,17 @@
 </div>
 <hr/>
 <img src="fist.png"/> <img src="logo.png"/><img src="BLM-logo.png"/>
+ <p><h3> ! More Compatible on Laptop Devices than Phones ! </h3></p>
 <p>Hi, this is a website dedicated for Latymer students to be provided with information in a more efficient and clearer way. This is from an educational point of view where there are resources, articles and information available. As well as being a forum for people to be informed and understand  history that the curriculum does not cover BME/BIPOC history. We aim to keep the momentum going and hopefully whilst being in lockdown, you can still educate yourself further and become a better ally.</p>
+<p><h3>If you have any suggestions or discussion points (History/English POV) that you would like posted on this website, press <a href="https://forms.gle/Xx7cKgC1nFo96DJcA">here</a> to fill out the form.</h3></p>
 <p><h3> Also, this is a forum for all students and teachers, so, if you would like to add something to this website then please send the document or resource <a href="mailto:y14tiche@latymer.co.uk">here</a></h3>
-<p>If you want to write a blog or check out petitions and email templates, then go check out Zahra's BAME LDN page <a href="https://zahra-rahman.github.io/BAME-LDN.github.io/page2-about/page2-about.html">here!</a></p>
+<p>If you want to write a blog or check out petitions and email templates, then go check out Zahra's BAME LDN page <a href="https://zahra-rahman.github.io/BAME_LDN/">here!</a></p>
 <hr/>
 <h1 style="background-color:Yellow"> Updates! </h1>
-<img src="noraspic3.jpeg"/>
-<h1 style="background-color:yellow"> -On Friday 26th June, at 5pm, there will be a Q&A talk with Dr Quinn about the History curriculum on Teams, if  you would like to be apart of this discussion, (teachers and students!) please email <a href="mailto:y13EmAdu@latymer.co.uk">Emmanuella Adu</a></h1>
+<p><h3 style="background-color:Yellow"> TBC </h3></p>
+<p>
+<a href="https://drive.google.com/drive/u/2/folders/1EV4pLH9iv3edDVYOJpDYLmLFhryk7IhU">Updates Archive</a>
+</p>
 <hr/>
 <h1 style="background-color:lightpink"> Newsletter</h1>
 <a href="https://drive.google.com/drive/folders/1E03SWB68L_ejIOb-b9JTyMqR2fGh8NYy?usp=sharing">"Solidarity with BLM"</a>
@@ -25,8 +29,6 @@
 - As changing the curriculum is an ongoing discussion, it is a long term process, so the English as well as History department are looking for ways to incorporate educating students whether that be through extra curriculum or on a student's own accord.</P>
 <p>
 - If you would like to be apart of an open discussion based on History that isn't taught in the curriculum, <a href="mailto:y14tiche@latymer.co.uk">press this email<a/> and let us know and you will be added to a google classroom.
-<p>
-- If you have any suggestions or discussion points (History/English POV) that you would like posted on this website, press <a href="https://forms.gle/Xx7cKgC1nFo96DJcA">here</a> to fill our the form.</p>
 <p>
 - Please keep updated with this website as well as Zahra's in the link above, I will keep updating so that your emails won't be spammed and can be a better way to take in information! 
 </p>
@@ -45,7 +47,8 @@
 <p><a href="https://linktr.ee/acab">Resource Card</a></p>
  <li class="Box-row">
  <p><h3> SHRUKI ABDI</h3></p>
- <p><a href="https://linktr.ee/sagalmuse">Shruki's Resource card </a></p>
+ <p><a href="https://linktr.ee/sagalmuse">Shruki's Resource card </a>
+</p>
 <hr/>
 <h1 style="background-color:lightpink"> Resources to educate yourself and family!</h1>
 <p><a href="https://drive.google.com/drive/folders/1dU3gRzrGuDZfdQ9X-e-T4w0WPAQAudki?usp=sharing">Resource List of Books/Films</a></p>
@@ -55,6 +58,10 @@
 <p> A lot of us, students and teachers, might not know our rights. Check this website, <a href="https://www.gov.uk/police-powers-to-stop-and-search-your-rights">learn your rights</a></p>
 <p>Feeling overwhelmed? Make sure to take care of yourself physically and mentally. Young Minds has a great 24/7 Crisis Messenger service where anyone can text a trained volunteer. Check their website for networks that allow you to text them for free <a href="https://youngminds.org.uk/find-help/get-urgent-help/youngminds-crisis-messenger/">here.</a> Text 'YM' to 85258. </p>
 <hr/>
+<h1 style="background-color:lightpink">Extra English: But Through The Eyes of...</h1>
+<embed src="The Tempest - Caliban.pdf" width="400px" height="600px"/>
+<hr/>
+
 <h1 style="background-color:lightpink">Literary Magazine Updates!</h1>
 
 <p class="p4"><span class="s1">Maisie and Rojbin in Year 12 have created a literary magazine: Euphrasia. They'll be publishing new issues monthly, full of books we've read as well as interesting articles and podcasts.</span></p>
@@ -121,7 +128,9 @@
   <ul>
     <li class="Box-row">
      <h4>Follow <a href="https://www.instagram.com/latymer_acs/">@latymer_acs</a></h4>
-<p>This month's theme is Mowtown.</p> 
+<p>'A student-led instagram page run by members of the Afro-Carribean Society (ACS) helping to educate the Latymer school community on black history, art, music and culture. The page contains book recommendations as well as netflix series, films, documentaries and youtubers that we ourselves have watched and would recommend as a way of learning about black figures and history that shape our society. In addition, we address current political issues affecting our community and try to stimulate constructive discussion in order to better our own school environment.
+We really hope that this page can act as a source of positive representation for students in the school in order to push black excellence to the forefront and redefine race narratives in our own small way'~ Lola </p> 
+<h4>This Month's Theme Is Mowtown. </h4>
 <p><img src="acs.png"/></p>
 
 <li class="Box-row">
