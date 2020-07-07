@@ -17,8 +17,8 @@
 <h1 style="background-color:Yellow"> Updates! </h1>
 <p>Thanks to Ms Elia for the novels recommendations, by Black Female Authors!</p>
 <img src="Queenie 2.jpg"/>      <img src="patsy.jpg"/> 
-<p>Click <a href="https://www.goodreads.com/book/show/36586697-queenie?from_search=true&from_srp=true&qid=tM9dAvt1F3&rank=1">here</a>   Clich <a href="https://www.goodreads.com/book/show/41817523-patsy">here
-<p>to read about Queenie!   to read about Patsy!</p>
+<p>Click <a href="https://www.goodreads.com/book/show/36586697-queenie?from_search=true&from_srp=true&qid=tM9dAvt1F3&rank=1">here</a> to read about Queenie!    
+<p>Clich <a href="https://www.goodreads.com/book/show/41817523-patsy">here</a> to read about Patsy!</p>
 <p>
 <a href="https://drive.google.com/drive/u/2/folders/1EV4pLH9iv3edDVYOJpDYLmLFhryk7IhU">Updates Archive</a>
 </p>
