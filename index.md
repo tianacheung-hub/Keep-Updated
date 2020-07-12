@@ -15,6 +15,8 @@
 <p>If you want to write a blog or check out petitions and email templates, then go check out Zahra's BAME LDN page <a href="https://zahra-rahman.github.io/BAME_LDN/">here!</a></p>
 <hr/>
 <h1 style="background-color:Yellow"> Updates! </h1>
+<p>Thanks to Ms Firth for the Poetry Recommendations, a recognition of Gwendolyn Brooks!</p>
+<embed src="Gwendolyn Brooks.pdf" width="500px" height="700px"/>
 <p>Thanks to Ms Elia for the novels recommendations, by Black Female Authors!</p>
 <img src="Queenie 2.jpg"/>      <img src="patsy.jpg"/> 
 <p>Click <a href="https://www.goodreads.com/book/show/36586697-queenie?from_search=true&from_srp=true&qid=tM9dAvt1F3&rank=1">here</a> to read about Queenie!    
@@ -125,6 +127,9 @@
    </li>
     <li class="Box-row">
      <a href="https://www.youtube.com/watch?v=aBnX_iQbXvg">Mary Jean Chan</a>  
+      </li>
+     <li class="Box-row">
+      <a href="https://poetryarchive.org/poet/gwendolyn-brooks/">Gwendolyn Brooks</a>
 <hr/>
 <h1 style="background-color:lightblue">Keep Up Wtih Socials</h1>
      
