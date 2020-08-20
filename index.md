@@ -1,6 +1,5 @@
 <html>
 <head>
-<title> Updates and English/History Resources</title>
 </head>
 <body style="background:$blue-300	#79b8ff">
  <div class="border border-black-fade bg-blue-light p-2 mb-2">
